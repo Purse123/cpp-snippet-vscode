@@ -1,0 +1,17 @@
+{
+    "cpp skeleton": {
+        "prefix": "#skeleton",
+        "body": [
+            "#include<iostream>",
+            "using namespace std;",
+            "class className {",
+            " ",
+            "};",
+            "int main() {",
+            "   className obj1;",
+            "   return 0;",
+            "}",
+        ],
+        "description": "Initial file setup for cpp"
+    }
+}

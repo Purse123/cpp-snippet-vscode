@@ -1,0 +1,21 @@
+{
+  "name": "piercecpp",
+  "displayName": "Cpp extension by purse",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "icon": "topOfHead.jpg",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "c++",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
